@@ -1,0 +1,5 @@
+com\martinzhekov\petclinic\PetClinicApplicationTests.class
+com\martinzhekov\petclinic\controllers\OwnerControllerTest.class
+com\martinzhekov\petclinic\services\map\OwnerMapServiceTest.class
+com\martinzhekov\petclinic\controllers\PetControllerTest.class
+com\martinzhekov\petclinic\services\springdatajpa\OwnerSDJpaServiceTest.class
